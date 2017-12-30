@@ -1,6 +1,6 @@
 # node-simple-projects
 
-All 3 projects are made with nodeJS as a learning experience. 
+Both projects are made with nodeJS as a learning experience. 
 
 ### Notetaker 
 This is a simple node note taking app that makes a file to save the note information
